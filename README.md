@@ -1,6 +1,7 @@
 # baba-cdn-authenticode
 Authenticode generator to support URL authentication by Alibaba Cloud CDN
 
+The URL authentication function protects user¡¯s site resources from illegal download and misuse. Leeching issues are only partially solved by adding the referer blacklist or whitelist. Because the referer content may be forged, this method cannot protect site resources completely. Applying URL authentication is recommended to protect the security of origin site resources.
 
 MD5Generator follows the standard guide on the URL below
 
