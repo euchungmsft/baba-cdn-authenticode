@@ -6,7 +6,6 @@ The URL authentication function protects user¡¯s site resources from illegal dow
 MD5Generator follows the standard guide on the URL below
 https://www.alibabacloud.com/help/doc-detail/27135.htm
 
-
     key = "aliyuncdnexp1234";	//	key defined from CDN console
     uri = "/video/standard/1K.html";	//	URL to download
     
